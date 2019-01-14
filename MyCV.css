@@ -1,0 +1,93 @@
+/*body {
+    background-image: url(../background_bluesky.jpg);
+    background-size: 260%;
+    background-repeat: no-repeat;
+    height: 3900px;
+    width: 1900px;
+    padding-left: 80px;
+    font-size: 1.3em;
+}*/
+
+nav {
+    float: left;
+    width: 1200px;
+    height: 3200px;
+    padding: 50px 100px 50px 150px;
+}
+
+#cauhoi {
+    font-style: tahoma;
+    color: #174440;
+    font-size: 1.25em;
+    float: left;
+}
+
+#traloi {
+    float: left;
+    width: 960px;
+    height: 2200px;
+    font-style: tahoma;
+    color: black;
+    font-size: 1.25em;
+}
+
+#traloi p {
+    font-size: 1.3em;
+    line-height: 50px;
+}
+
+.paragraph {
+    font-size: 1.3em;
+}
+
+th,
+td {
+    color: black;
+    font-size: 2em;
+    text-align: center;
+}
+
+table {
+    width: 850px;
+    height: 300px;
+    border-color: brown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list {
+    font-size: 1.4em;
+}
+
+#hieuung {
+    float: left;
+    margin-left: 35px;
+    padding-bottom: 50px;
+}
+
+#hieuung p {
+    font-size: 1.25em;
+    color: red;
+    text-align: center;
+    line-height: 2px;
+}
+
+#left_to_right {
+    float: left;
+    padding-bottom: 10px;
+}
+
+#right_to_left {
+    float: left;
+    padding-bottom: 10px;
+}
+
+#down_to_up {
+    float: left;
+    padding-bottom: 10px;
+}
+
+#up_to_down {
+    float: left;
+    padding-bottom: 10px;
+}
